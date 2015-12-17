@@ -1,0 +1,4 @@
+RESULT	= test
+SOURCES	= test.ml
+LIBS	= sdl
+include OCamlMakefile
